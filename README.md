@@ -140,6 +140,7 @@ linux-sysadmin-lab/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Verification and Testing
 
