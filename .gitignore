@@ -1,0 +1,10 @@
+# Generated backup archives and checksum files
+backups/*.tar.gz
+backups/*.sha256
+
+# Temporary restore-test directory
+backups/restore-test/
+
+# Runtime logs and generated reports
+docs/backup.log
+docs/daily-health-report.txt

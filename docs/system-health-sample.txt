@@ -1,0 +1,24 @@
+=====================================
+	    Linux System Health Report
+=====================================
+Hostname: DESKTOP-E5SBU20
+Date: Sun Sep 13 19:18:23 UTC 2026
+Uptime: up 5 hours, 24 minutes
+
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       646Mi       6.5Gi       3.6Mi       397Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- Nginx Service ---
+Nginx Status: RUNNING
+
+---Disk Usage ---
+Root filesystem usage: 1%
+Disk Status: OK
+
+--- System Load ---
+1-minute load average: 0.00
+
+--- Failed Services ---
+Failed Services: NONE
